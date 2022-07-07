@@ -33,7 +33,7 @@ export default function HomePage({ children, img, title, alt }: HomePageProps ):
           mx="auto"
         >
           {children}
-          <Button title="Github" icon={<GithubLogo size="24" />} url="https://github.com/aleksanderpalamar/BoilerplateNextJS"/>          
+          <Button title="Github" icon={<GithubLogo size="24" />} url="https://github.com/sponsors/aleksanderpalamar"/>          
         </Box>
         <Img src={img} mt="20" title={title} alt={title}/>
       </Box>
