@@ -4,16 +4,16 @@
 
 <p align="center">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Palamar-Dev/Boilerplate-NextJS">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/aleksanderpalamar/BoilerplateNextJS">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Palamar-Dev/Boilerplate-NextJS">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/aleksanderpalamar/BoilerplateNextJS">
 
   <a href="https://www.palamarsolutionit.com.br/">
       <img alt="Made by Aleksander Palamar" src="https://img.shields.io/badge/made%20by-Aleksander Palamar-purple">
   </a>
 
   <a href="https://github.com/Palamar-Dev/Boilerplate-NextJS/commits/master">
-      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Palamar-Dev/Boilerplate-NextJS?color=blue">
+      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/aleksanderpalamar/BoilerplateNextJS?color=blue">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=purple">
@@ -56,7 +56,6 @@ Este e um boilerplate em [Next.js](https://nextjs.org/) usado em meus projetos F
 - **[TypeScript](https://www.typescriptlang.org/)**
 - **[NextJS](https://nextjs.org/)**
 - **[ChakraUI](https://chakra-ui.com/getting-started)**
-- **[Jest](https://jestjs.io/)**
 - **[Eslint](https://eslint.org/)**
 - **[Prettier](https://prettier.io/)**
 
@@ -75,10 +74,10 @@ Para clonar e executar este aplicativo, você precisará de [Git](https://git-sc
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:Palamar-Dev/Boilerplate-NextJS.git
+$ git clone git@github.com:aleksanderpalamar/BoilerplateNextJS.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Boilerplate-NextJS
+$ cd BoilerplateNextJS
 ```
 
 ### 🎲 Rodando a Aplicação
@@ -93,15 +92,6 @@ $ yarn dev
 # O servidor inciará na porta:3000 - acesse http://localhost:3000
 
 ```
-
-### 💾 Comandos Úteis
-
-```bash
-#Criação de um componente completo com (index.tsx / stories.tsx / styles.ts / test.tsx)
-$ yarn generate ComponentName
-
-```
-
 ## 🤔 Como contribuir para o projeto
 
 - Faça um **fork** do projeto;
